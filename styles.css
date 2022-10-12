@@ -30,12 +30,12 @@ nav {
   height: 50px;
 }
 
-/* nav > ul {
+nav > ul {
   display: flex;
   justify-content: space-evenly;
 }
 
-h1,
+/* h1,
 h2 {
   font-family: Verdana, Tahoma;
 }
